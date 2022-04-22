@@ -1,0 +1,22 @@
+{
+  "name": "15.-curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franzft/Curso-de-Asincronismo-con-JavaScript.git"
+  },
+  "author": "Franz Toledo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franzft/Curso-de-Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Franzft/Curso-de-Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
